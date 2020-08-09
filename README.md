@@ -6,10 +6,11 @@
 
 > Switch case to move among game states  
 > A single sprite used to render multiple backgrounds (less heavy)       
-> Gravity, Jump, Speed, Rotation properties. Freefall effect      
+> Gravity, Jump, Speed, Rotation properties  
+> Freefall effect      
 > Random pipes obstacles  
 > Collision detection  
-> Score + Best scores stored in Localstorage
+> Score + Best scores stored in Localstorage  
 
 
 &nbsp;
